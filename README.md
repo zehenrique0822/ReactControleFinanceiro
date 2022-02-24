@@ -1,4 +1,4 @@
-# Sistemas de finanças pessoais em React
+# Sistema de finanças pessoais em React
 
 Tecnologias utilizadas para construção:
 
