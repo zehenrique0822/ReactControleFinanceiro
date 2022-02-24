@@ -4,8 +4,8 @@ Tecnologias utilizadas para construção:
 
 - HTML 
 - CSS
-- React
 - Typescript
+- React
 
 ### Instalação
 
